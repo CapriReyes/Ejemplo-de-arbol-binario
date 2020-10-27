@@ -37,22 +37,41 @@ El método gotoxy ayuda a posicionar las impresiones de pantalla dependiendo de 
 ![18](https://user-images.githubusercontent.com/71307223/97347115-f19dcb80-1851-11eb-9c26-3f0f9d812469.png)
 Resultados
 Menu.
+
 ![19](https://user-images.githubusercontent.com/71307223/97347116-f2366200-1851-11eb-84a8-f1692b65b923.png)
+
 Insertar un nodo.
+
 ![20](https://user-images.githubusercontent.com/71307223/97347118-f2366200-1851-11eb-9940-89bbcd806281.png)
+
 Arbol completo.
+
 ![21](https://user-images.githubusercontent.com/71307223/97347119-f2cef880-1851-11eb-93db-b7baae2a01ce.png)
+
 Buscar elemento.
+
 ![22](https://user-images.githubusercontent.com/71307223/97347120-f2cef880-1851-11eb-915a-b5ed5d0e343c.png)
+
 Cuando encuentra el elemento.
+
 ![23](https://user-images.githubusercontent.com/71307223/97347122-f3678f00-1851-11eb-9665-80fe6db0e58f.png)
+
 PreOrden.
+
 ![24](https://user-images.githubusercontent.com/71307223/97347123-f3678f00-1851-11eb-84ab-09de110c9812.png)
+
 InOrden.
+
 ![25](https://user-images.githubusercontent.com/71307223/97347125-f4002580-1851-11eb-9059-07ab9ee02a5e.png)
+
 PostOrden.
+
 ![26](https://user-images.githubusercontent.com/71307223/97347126-f4002580-1851-11eb-88f8-729983647d20.png)
+
 Eliminar un digito
+
 ![27](https://user-images.githubusercontent.com/71307223/97347127-f498bc00-1851-11eb-9f70-7a19bdb2cecd.png)
+
 Despues de eliminar un digito
+
 ![28](https://user-images.githubusercontent.com/71307223/97347129-f498bc00-1851-11eb-88c8-a8b955e1e913.png)
