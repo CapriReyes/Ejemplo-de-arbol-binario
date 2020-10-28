@@ -1,5 +1,5 @@
-# Ejemplo-de-arbol-binario
-En esta parte se declaran las librerías y variables para utilizar las teclas
+# Ejemplo-de-árbol-binario
+En esta parte se declaran las librerías y variables para utilizar las teclas 
 ![1](https://user-images.githubusercontent.com/71307223/97347132-f5315280-1851-11eb-8a39-92d3e261aef2.png)
 Se crea la estructura llamada nodo para poder crear el árbol binario
 ![2](https://user-images.githubusercontent.com/71307223/97347136-f5315280-1851-11eb-9c69-3faea27dbeb5.png)
